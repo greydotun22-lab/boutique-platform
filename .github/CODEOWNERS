@@ -1,0 +1,6 @@
+# Default owner for everything
+*                @greydotun22-lab
+
+# Deployment config needs the platform reviewer
+/kubernetes/     @greydotun22-lab @Dappyplay4u
+/.github/        @greydotun22-lab @Dappyplay4u
